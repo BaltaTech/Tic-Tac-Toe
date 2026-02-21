@@ -10,7 +10,6 @@ namespace TicTacToe
         public MainWindow()
         {
             InitializeComponent();
-
             var modeloTablero = new ModeloTablero();
             var servicioJuego = new TableroService();
             this.DataContext = new ControladorJuegoViewModel(modeloTablero, servicioJuego);
