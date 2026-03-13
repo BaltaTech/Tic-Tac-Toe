@@ -14,10 +14,10 @@ Inversión de Dependencias (DIP): El núcleo del juego depende de abstracciones,
 SOLID: Énfasis en el principio de Responsabilidad Única para facilitar el mantenimiento y la extensión del código.
 
  Stack Tecnológico
-Runtime: .NET 8.0 
-
-Lenguaje: C#
-
+Runtime: 
+.NET 8.0 
+Lenguaje:
+C#
 IDE:Visual Studio 2022
 
 Modelado: UML (Class & Sequence Diagrams)
