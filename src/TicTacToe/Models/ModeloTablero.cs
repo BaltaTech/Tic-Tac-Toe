@@ -3,7 +3,6 @@ using TicTacToe.Interfaces;
 
 namespace TicTacToe.Models
 {
-    // La clase ModeloTablero implementa la interfaz IModeloTablero
     public class ModeloTablero : IModeloTablero
     {
         private const int Tamano = 3;
