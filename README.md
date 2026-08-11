@@ -62,20 +62,19 @@ Este proyecto fue mi **laboratorio de aprendizaje** para entender:
 - ✅ Código desacoplado con MVVM
 
 ---
-
 ## 🏗️ Architecture
 
 ### Diagrama de Clases
-![Diagrama de Clases](TictTacToe-ClassDiagram.png)
+![Diagrama de Clases](docs/Documentación%20UML/TictTacToe-ClassDiagram.png)
 
 ### Diagrama de Secuencia - Flujo Normal
-![Flujo Normal](TictTacToe-Secuence%20Diagram.png)
+![Flujo Normal](docs/Documentación%20UML/TictTacToe-Secuence%20Diagram.png)
 
 ### Diagrama de Secuencia - Victoria
-![Flujo Victoria](TictTacToe-SecuenceDiagram-Victory.png)
+![Flujo Victoria](docs/Documentación%20UML/TictTacToe-SecuenceDiagram-Victory.png)
 
 ### Diagrama UML General
-![UML General](_UML.png)
+![UML General](docs/Documentación%20UML/_UML.png)
 
 ### Estructura del Proyecto
 
